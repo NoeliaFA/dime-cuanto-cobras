@@ -65,7 +65,7 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 * Crecimiento de la demanda
   * Aumento de la población en grandes ciudades (donde se encuentra trabajo)
   * Reducción de compra de piso para primera vivienda (por razones económicas y por cambio de mentalidad)
-* Precarizacion de las condiciones laborales de la población joven
+* Precarizacion de las condiciones laborales de la población joven
 * Proliferación de los pisos turísticos (Airbnb)
 * Compra de viviendas para alquilar como negocio de inversión lucrativo
 
@@ -86,6 +86,9 @@ Muy buen artículo que resuma nuestro tema en cuanto a precio de alquiler, habla
 
 - [**"Precios medios de alquiler en los distritos de Madrid"**](http://public.tableau.com/views/Idealista-PreciosAlquilerenDistritosdeMadrid/Idealista-PreciosMediosdelAlquilerenlosDistritosdeMadrid?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true) </br>
 Gráficos interactivos hechos por Idealista con Tableau Public.
+
+- [**"Buscador BBVA"**](https://www.bbva.es/particulares/hipotecas-prestamos/hipotecas/buscador-viviendas/index.jsp) </br> 
+Buscador de vivienda de BBVA con estimación de m2.
 
 ## Equipo
 - [Ana Torres](https://tresletras.wordpress.com/) - periodista
